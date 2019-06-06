@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@filtu/prettier-config",
   "version": "1.0.0",
   "description": "Prettier configuration",
   "author": "Ilia Liachin <seelts@gmail.com>",
