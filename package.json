@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Prettier configuration",
   "author": "Ilia Liachin <seelts@gmail.com>",
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "Unlicense",
+  "private": false,
   "main": "prettier.config.js",
   "devDependencies": {
     "prettier": "1.17.1"
