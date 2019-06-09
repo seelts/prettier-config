@@ -7,6 +7,6 @@
   "private": false,
   "main": "prettier.config.js",
   "devDependencies": {
-    "prettier": "1.17.1"
+    "prettier": "1.18.2"
   }
 }
