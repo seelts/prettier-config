@@ -1,13 +1,16 @@
 {
   "name": "@filtu/prettier-config",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Prettier configuration",
   "author": "Ilia Liachin <seelts@gmail.com>",
   "license": "Unlicense",
   "private": false,
   "main": "prettier.config.js",
   "files": [],
+  "peerDependencies": {
+    "prettier": "^2"
+  },
   "devDependencies": {
-    "prettier": "1.17.1"
+    "prettier": "^2.0.5"
   }
 }
